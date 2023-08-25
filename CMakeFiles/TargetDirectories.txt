@@ -1,0 +1,3 @@
+/home/fredo/Documents/C++/Person_Detection_C++_Worked_Sebagian/CMakeFiles/rebuild_cache.dir
+/home/fredo/Documents/C++/Person_Detection_C++_Worked_Sebagian/CMakeFiles/edit_cache.dir
+/home/fredo/Documents/C++/Person_Detection_C++_Worked_Sebagian/CMakeFiles/person_detect.dir
