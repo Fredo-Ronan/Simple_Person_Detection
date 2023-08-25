@@ -9,8 +9,8 @@ using namespace cv;
 using namespace dnn;
 using namespace std;
 
-const String prototxt_path = "/home/fredo/Documents/C++/Person_Detection_C++_Worked_Sebagian/Models/MobileNetSSD_deploy.prototxt";
-const String model_path = "/home/fredo/Documents/C++/Person_Detection_C++_Worked_Sebagian/Models/MobileNetSSD_deploy.caffemodel";
+const String prototxt_path = "/path/to/your_project_folder_directory/Models/MobileNetSSD_deploy.prototxt"; // change /path/to/your_project_folder_directory to your actuall directory
+const String model_path = "/path/to/your_project_folder_directory/Models/MobileNetSSD_deploy.caffemodel"; // change /path/to/your_project_folder_directory to your actuall directory
 const float confidence_threshold = 0.01;
 const vector<string> classes = { "background", "aeroplane", "bicycle", "bird", "boat",
                                   "bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
