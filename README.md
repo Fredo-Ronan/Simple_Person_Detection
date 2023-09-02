@@ -1,5 +1,6 @@
 # Simple_Person_Detection
-A simple person detection using C++ and OpenCV library for Computer Vision
+A simple person detection using C++ and OpenCV library for Computer Vision<br><br>
+OS: <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-B0A404?logo=ubuntu&logoColor=white&style=flat"/>
 
 ## How to run?
 * First make sure you have OpenCV library for C++ installed on your computer environment
