@@ -26,6 +26,11 @@
 *.a
 *.lib
 
+# Executables
+*.exe
+*.out
+*.app
+
 
 # CMake gitignore
 CMakeLists.txt.user
@@ -40,8 +45,3 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
-
-# Executables
-*.exe
-*.out
-*.app
